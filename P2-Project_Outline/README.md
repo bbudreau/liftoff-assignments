@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+For my project I would like to create a fitness tracker with a social aspect tied into it.  Users will be able to create
+custom workouts for themselves as well as document all of their calorie intake.  This information will be stored in
+order to track progress with histograms or percentages (increase or decrease).  Users will be able to see other user
+profiles to help with their fitness journey.  Statistics will be used to determine what overall percentile a users workout
+falls into overall.
 ### Features
-Include Features here
+-user login
+-add custom workouts
+-dashboard
+-track calorie intake
+-social "blog" board
 ### Technologies
-Include Technologies here
-
+Java
+JavaScript
+PHP
 ### What I'll Have to Learn
-Include what you will need to learn here
+JavaScript to display data to the user
+Using statistics to compare user data
+Adding "friends"
+
+https://www.pivotaltracker.com/n/projects/2185128
